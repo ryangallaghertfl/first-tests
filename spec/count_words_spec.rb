@@ -30,7 +30,7 @@ RSpec.describe "count_words method" do
     
   it "takes 6-word string as arg, counts number of words returns 6" do
     result = count_words("hello my name is Ryan Gallagher")
-    expect(result).to eq 5
+    expect(result).to eq 6
     end
 
   it "takes 1-word string as arg, converts to array, counts number of words returns 1" do
