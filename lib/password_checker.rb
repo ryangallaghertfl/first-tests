@@ -9,3 +9,4 @@ class PasswordChecker
       end
     end
   end
+
