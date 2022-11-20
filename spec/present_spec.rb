@@ -19,8 +19,4 @@ RSpec.describe Present do
         expect(present.unwrap).to eq 6
     end
 
-
-
-
-
 end
