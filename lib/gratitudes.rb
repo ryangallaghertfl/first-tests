@@ -16,9 +16,3 @@ class Gratitudes
     end
   end
 
-  cheerful = Gratitudes.new
-  cheerful.add("food")
-  cheerful.add("shelter")
-  cheerful.add("friends")
-  cheerful.add("knowledge")
-  puts cheerful.format
